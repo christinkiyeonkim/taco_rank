@@ -1,4 +1,6 @@
-# taco_places.py
+
+
+
 
 taco_places = [
     {
@@ -10,20 +12,32 @@ taco_places = [
     {
         "name": "Birria Zaragoza",
         "recommend": "Goat Taco",
-        "score": 10,
-        "comments": "Goat taco is unbeatable. Authentic & perfect.",
+        "score": 9,
+        "comments": "Goat taco is unbeatable — authentic and perfect. 🌟 Deducted 1 point because they sell out fast and close too early (7 PM on weekdays).",
     },
     {
         "name": "Angela's Burrito",
         "recommend": "Al Pastor Taco",
         "score": 10,
-        "comments": "Great alternative to Tapatio if you’re in the city.",
+        "comments": "🌆 A great alternative to Tapatio if you're in the city!",
     },
     {
         "name": "El Tragon",
         "recommend": "Quesabirria",
         "score": 8,
-        "comments": "Still good! But I preferred Angela's and Tapatio's Al Pastor.",
+        "comments": "Still good! But I preferred Angela's and Tapatio's Al Pastor, so I'd say more like a 9/10. ⏰ Deducted 1 point because they close early (8 PM weekdays, 4 PM Saturday, closed Sunday).",
+    },
+    {
+        "name": "Jaimito's Burritos",
+        "recommend": "🌶️ Try the grilled jalapeños! Salsa is good.",
+        "score": 8,
+        "comments": "Friendly staff — he told me to ask for grilled jalapeños next time before they run out, so he gave me extra green salsa 😄. It's close to my place and open late. Al Pastor reminds me of El Tragon — not the best, not the worst. I would've given a 7, but added 1 point for convenience.",
+    },
+    {
+        "name": "Jorge Taco y Burrito House",
+        "recommend": "🥤 Horchata, maybe?",
+        "score": 6,
+        "comments": "Tried the lunch special beef tacos... turned out to be ground beef (not asada steak like I expected — but hey, they didn’t lie). Al Pastor marinade was too overpowering. Horchata was actually good! 📍 It’s right next to my work (CML), so I added 1 point for convenience.",
     },
 ]
 
