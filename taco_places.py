@@ -39,6 +39,12 @@ taco_places = [
         "score": 6,
         "comments": "Tried the lunch special beef tacos... turned out to be ground beef (not asada steak like I expected — but hey, they didn’t lie). Al Pastor marinade was too overpowering. Horchata was actually good! 📍 It’s right next to my work (CML), so I added 1 point for convenience.",
     },
+    {
+        "name": "Del Seoul",
+        "recommend": "Sambal fish taco",
+        "score": 10,
+        "comments": "Korean + Mexican fusion place slings the best fusion tacos in the city!  The bulgogi beef taco and the shrimp taco are superb, but if there is only one taco you must try it is definitely the sambal fish taco!",
+    },
 ]
 
 #sort highest score 
