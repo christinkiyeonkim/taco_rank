@@ -1,4 +1,4 @@
-# Taco Rank
+# 🌮Taco Rank
 
 A personal and fun Python project where I rank and review taco places in Chicago, using what I've learned and adding my own creativity.
 
