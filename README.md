@@ -8,7 +8,8 @@ A personal and fun Python project where I rank and review taco places in Chicago
 - Python: Lists, dictionaries, lambda functions, and iteration
 - GitHub: Version control and GitHub Actions (planned)
 - Linux Environments: Arch Linux and Ubuntu for personal learning and practice
-- Developed on a MacBook Air (Latin School of Chicago work computer) during down time and lunch breaks at work, for flexibility.
+- Developed during personal time outside of work responsibilities (such as lunch breaks) on a MacBook Air (Latin School of Chicago work computer), to maximize productivity and practice real-world applications.
+
 
 ---
 
